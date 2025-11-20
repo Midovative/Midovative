@@ -1,6 +1,7 @@
 # 🙎🏽‍♂️💻 Muhydeen Olalekan Afolabi – Cybersecurity Analyst
 
-Hi there! 👋 I'm Muhydeen Olalekan Afolabi, a passionate and hands-on * Cybersecurity analyst * with a growing portfolio of real-world projects focused on threat detection, system hardening, and security monitoring. I believe in learning by doing and I’m on a mission to make the digital world safer — one packet at a time.
+Hi there 👋 I am Muhydeen Olalekan Afolabi a *Security Operations (SOC) Analyst and Cloud Security enthusiast* with a strong hands-on approach to cybersecurity.
+I build and showcase real-world projects that focus on threat detection incident response log analysis cloud security controls and system hardening. I believe in learning through practical implementation and I am committed to contributing to a safer digital ecosystem one alert log and mitigation at a time..
 
 ---
 
