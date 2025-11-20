@@ -66,11 +66,11 @@ Here's a curated list of projects I’ve completed as part of my cybersecurity l
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/olalekanafolabi/)  
 - ✉ Email: Lekanafolabi12@gmail.com  
-- 🌐 Portfolio Site (coming soon!)
+- 🌐 Portfolio Site 
 
 ---
 
-> “Cybersecurity is not just a skill — it's a mindset.”  
+> “Cybersecurity is not just a skill — it is the mindset of continuously monitoring, analysing and securing systems both on-prem and in the cloud..”  
 > – Muhydeen Afolabi
 
 Thanks for visiting my GitHub! Don’t forget to ⭐ star any repo you find helpful 💻🔥
