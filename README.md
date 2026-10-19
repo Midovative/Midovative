@@ -7,7 +7,7 @@ I build and showcase real-world projects that focus on threat detection incident
 
 ## 🛡 My Cybersecurity Projects
 
-Here's a curated list of projects I’ve completed as part of my cybersecurity learning journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
+Here's a curated list of projects I’ve completed as part of my cybersecurity journey. Each project is designed to replicate real-world scenarios, using industry tools and best practices.
 
 ### 🧪 Lab Environments
 - ✅ *Setting Up a Virtual Home Lab* (on macOS and Windows)
